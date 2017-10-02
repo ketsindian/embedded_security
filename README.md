@@ -4,14 +4,23 @@ This was a workshop as well as a competition for implementing predesigned lightw
 
 cryprology
     |
+
     |
+    
 cryptography --------------- cryptanalysis    
+
     |
+
     |
+
 symmetric------------- assymetric
+
     |
+
     |
+
 block cypher ---------- stream cypher
+
 
 Block cyphers(block length 64 bits):
 1. Friestal Network:
